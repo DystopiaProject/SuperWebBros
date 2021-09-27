@@ -1,0 +1,24 @@
+{
+  "name": "superwebbros",
+  "version": "0.0.1",
+  "description": "An attempt at recreating Super Mario Bros (NES) in WebGL using Pixi.js",
+  "main": "app.js",
+  "scripts": {
+    "start" : "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DystopiaProject/SuperWebBros.git"
+  },
+  "author": "ZanyLeonic, DaRiceCake",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DystopiaProject/SuperWebBros/issues"
+  },
+  "homepage": "https://github.com/DystopiaProject/SuperWebBros#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^15.0.0",
+    "pixi.js": "^6.1.3"
+  }
+}
